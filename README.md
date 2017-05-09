@@ -2,6 +2,8 @@
 
 This showcase app can assist with a common therapeutic treatment, where the patient is asked to journal frequently to record their state of mind. This method is used as part of a treatment plan for many different conditions (including depression and schizophrenia).
 
+![whenhub-hackathon](https://cloud.githubusercontent.com/assets/28540913/25853760/297bccca-34ce-11e7-839a-a887919ebeea.gif)
+
 With MyMood the user can visualize their journal as a WhenCast and share it with their counselor.
 
 MyMood is not suitable to be used by real patients and some features are only partially implemented.
